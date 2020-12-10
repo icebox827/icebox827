@@ -2,7 +2,7 @@
 ### A Freelance Full-stack Web Developer and Designer
 
 - 🔭 I’m currently working on my Portfolio
-- website: (https://denislafontant.com)
+- website: [denislafontant.com](https://denislafontant.com)
 - 🌱 I’m currently learning Full-stack Web Development at Microverse
 - 📫 How to reach me:
 - GitHub: [@icebox827](https://github.com/icebox827)
