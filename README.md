@@ -1,3 +1,5 @@
+![logo1.PNG](https://github.com/icebox827/icebox827/blob/main/logo1.png?raw=true)
+
 ### Hi there 👋 I'm Denis Lafontant
 ### A Freelance Full-stack Web Developer and Designer
 
