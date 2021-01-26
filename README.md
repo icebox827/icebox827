@@ -2,7 +2,7 @@
 
 # Hi there 👋 I'm Denis Lafontant
 ## A Freelance Full-stack Web Developer and Designer
-(https://github-readme-stats.vercel.app/api?username=icebox827&show_icons=true)](https://https://github.com/icebox827/)
+![stats](https://github-readme-stats.vercel.app/api?username=icebox827&show_icons=true)](https://https://github.com/icebox827/)
 
 - 🔭 I’m currently working on my Portfolio
 - website: [denislafontant.com](https://denislafontant.com)
