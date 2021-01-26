@@ -1,7 +1,8 @@
 ![logo1.PNG](https://github.com/icebox827/icebox827/blob/main/logo1.png?raw=true)
 
-### Hi there 👋 I'm Denis Lafontant
-### A Freelance Full-stack Web Developer and Designer
+# Hi there 👋 I'm Denis Lafontant
+## A Freelance Full-stack Web Developer and Designer
+(https://github-readme-stats.vercel.app/api?username=icebox827&show_icons=true)](https://https://github.com/icebox827/)
 
 - 🔭 I’m currently working on my Portfolio
 - website: [denislafontant.com](https://denislafontant.com)
