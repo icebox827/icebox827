@@ -1,4 +1,4 @@
-![logo1.PNG](https://github.com/icebox827/icebox827/blob/main/logo1.png?raw=true)
+![logo1.PNG](https://github.com/icebox827/icebox827/blob/main/facebook_cover_photo_2_transparent.png?raw=true)
 
 # Hi there 👋 I'm Denis Lafontant
 ## A Freelance Full-stack Web Developer and Designer
