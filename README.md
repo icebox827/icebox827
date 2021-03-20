@@ -6,9 +6,9 @@
 
 ### What I'm doing now
 
-- 🔭 I’m currently working on my Portfolio
+- 🔭 I’m working on my Portfolio
 - website: [denislafontant.com](https://denislafontant.com)
-- 🌱 I’m currently learning Full-stack Web Development at Microverse
+- 🌱 I’m learning Full-Stack Web Development at Microverse
 
 ### 📫 How to reach me
 
