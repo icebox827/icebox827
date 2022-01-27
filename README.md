@@ -8,9 +8,9 @@
 
 ### What I'm doing now
 
-- 🔭 Working on my Portfolio
+- 🔭 Working as Software Engineer at BairesDev
 - Website: [denislafontant.com](https://denislafontant.com)
-- 🌱 Learning Full-Stack Web Development at Microverse
+- 🌱 Enhancing my Full-Stack Developer skills everyday
 
 ### 📫 How to reach me
 
