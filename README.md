@@ -10,7 +10,7 @@
 
 - 🔭 Working as Software Engineer at BairesDev
 - Website: [denislafontant.com](https://denislafontant.com)
-- 🌱 Enhancing my Full-Stack Developer skills everyday
+- 🌱 Enhancing my full-stack developer skills everyday
 
 ### 📫 How to reach me
 
