@@ -8,7 +8,7 @@
 
 ### What I'm doing now
 
-- 🔭 Working as Software Engineer at BairesDev
+- 🔭 Working as Software Engineer
 - Website: [denislafontant.com](https://denislafontant.com)
 - 🌱 Enhancing my full-stack developer skills everyday
 
